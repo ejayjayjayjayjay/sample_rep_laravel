@@ -25,7 +25,7 @@
                     <div>
                         <img src="/svg/tanjiro.svg" style="height: 35px; width: 35px; border-right: 1px solid #333;">
                     </div>
-                    <div class="pt-1" style="padding-left: 2px">EJAYWEBSITE</div>
+                    <div class="pt-1" style="padding-left: 7px">EJAYWEBSITE</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
