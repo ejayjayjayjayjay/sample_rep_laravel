@@ -35,9 +35,9 @@
             <div><a>Website Url</a></div>
         </div>
         <div class="row">
-            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?computers" alt=""></div>
-            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?landscape" alt=""></div>
-            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?dogs" alt=""></div>
+            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?computers" alt="" class="w-100"></div>
+            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?landscape" alt="" class="w-100"></div>
+            <div class="col-4"><img src="https://source.unsplash.com/1600x900/?dogs" alt="" class="w-100"></div>
         </div>
     </div>
 </div>
