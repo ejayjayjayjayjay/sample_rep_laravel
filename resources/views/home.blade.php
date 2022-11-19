@@ -32,7 +32,7 @@
             </div>
             <div class="pt-4 fw-bold">User Title</div>
             <div>User Description</div>
-            <div><a>Website Url</a></div>
+            <div><a href="">Website Url</a></div>
         </div>
         <div class="row">
             <div class="col-4"><img src="https://source.unsplash.com/1600x900/?computers" alt="" class="w-100 pt-5"></div>
