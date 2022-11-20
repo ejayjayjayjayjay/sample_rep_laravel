@@ -24,7 +24,7 @@
             <img src="/images/ejay.png" class="rounded-circle" style="height: 200px; width: 200px;" alt="profile-img">
         </div>
         <div class="col-9 pt-5">
-            <div><h1>EjayVibar</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex align-items-center">
                 <div style="padding-right: 4%;"><strong>100</strong> posts</div>
                 <div style="padding-right: 4%;"><strong>20k</strong> followers</div>
